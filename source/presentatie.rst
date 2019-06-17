@@ -8,10 +8,9 @@ Leer- en werkwijzer
 
 .. toctree::
    :maxdepth: 1
-   :caption: ICT
+   :caption: Presentatie
 
-   presentatie
-   tekstverwerking
+   pres_afspraken
 
 
 

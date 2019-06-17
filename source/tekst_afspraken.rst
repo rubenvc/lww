@@ -6,11 +6,6 @@
 Leer- en werkwijzer
 ===============================================
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Tekstverwerking
-
-   tekst_afspraken
 
 
 
