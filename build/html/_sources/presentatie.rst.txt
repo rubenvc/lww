@@ -3,6 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+============
 Presenteren
 ============
 
@@ -13,18 +14,17 @@ Doel van een presentatie
 2. Put multiple turtles into a list and use a for loop over that list to do the same thing to multiple turtles at once!
 3. Play the guessing game using a while loop.
 
-PowerPoint
------------
+Algemeen
+*********
 
-Basisafspraken
-***************
+Voorbereiding
+++++++++++++++
+Een goede presentatie voorbereiden kost tijd. Het is niet eenvoudig om een boeiende presentatie te geven. Veel presentaties zijn saai, langdradig, bevatten teveel informatie of missen structuur. De oorzaak hiervan is meestal een gebrek aan voorbereiding.
+Een goede voorbereiding betekent: je doelstelling formuleren; je doelgroep analyseren en daarna pas jeboodschap en de wijze van presenteren bepalen. Voorbereiden betekent ook dat je ondersteunende hulpmiddelen als een beamer, micro, video- of audiofragmenten vooraf grondig test.
 
-1. Je gaat nooit.
-2. Je doet nooit.
-3. Gebruik altijd.
+Specifieke
+*************
 
-Specifieke afspraken
-*********************
 
 1. Weweld
 2. sdfqsdfqsdf
