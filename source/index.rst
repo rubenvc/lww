@@ -7,7 +7,7 @@ Leer- en werkwijzer
 ===============================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :caption: ICT
 
    presentatie

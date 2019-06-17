@@ -3,20 +3,30 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Leer- en werkwijzer
-===============================================
+Presenteren
+============
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Presentatie
+Doel van een presentatie
+-------------------------
 
-   pres_afspraken
+1. Je maakt blabla
+2. Put multiple turtles into a list and use a for loop over that list to do the same thing to multiple turtles at once!
+3. Play the guessing game using a while loop.
+
+PowerPoint
+-----------
+
+Basisafspraken
+***************
+
+1. Je gaat nooit.
+2. Je doet nooit.
+3. Gebruik altijd.
+
+Specifieke afspraken
+*********************
+
+1. Weweld
+2. sdfqsdfqsdf
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
