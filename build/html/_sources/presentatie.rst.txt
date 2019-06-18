@@ -14,7 +14,7 @@ Doel van een presentatie
 2. Put multiple turtles into a list and use a for loop over that list to do the same thing to multiple turtles at once!
 3. Play the guessing game using a while loop.
 
-Algemeen
+Inhoud
 *********
 
 Voorbereiding
@@ -53,7 +53,7 @@ Spellingscontrole
 
 Controleer je presentatie altijd nog eens op taalfouten. Wanneer je publiek spelfouten opmerkt in je presentatie verlies je aan geloofwaardigheid en zal de aandacht vooral op de fout liggen en niet op jouw verhaal.
 
-Specifiek
+Technisch
 *************
 
 Hoeveelheid informatie
@@ -111,3 +111,15 @@ Kies voor een overduidelijke stijl in je presentatie. Dit betekent:
 - 1 type van diaovergang
 
 Het is niet de bedoeling om aan te tonen dat je weet hoe je dit allemaal kunt veranderen. Kies één iets en pas dit standvastig toe in je presentatie.
+
+Checklist
+**********
+
+Gebruik volgende lijst om na te gaan of je presentatie voldoet aan de minimum eisen.
+- qsdf
+- sdqf
+- sqsqfd
+- sqfdqsdf
+- sqdfqsdf
+- sqdfqsdf
+- qdf
