@@ -17,7 +17,7 @@ Leer- en werkwijzer
 .. toctree::
    :maxdepth: 1
    :caption: ICT
-   :name: toc-ict
+   :name: sec-ict
 
    ict/presenteren/index
    tekstverwerking
