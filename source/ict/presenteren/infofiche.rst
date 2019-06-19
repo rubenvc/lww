@@ -105,6 +105,7 @@ Stijl
 +++++++
 
 Kies voor een overduidelijke stijl in je presentatie. Dit betekent:
+
 - 1 lettertype
 - 1 kleurschema
 - 1 type van animatie
