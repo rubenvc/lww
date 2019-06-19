@@ -92,6 +92,7 @@ html_theme_options = {
     'collapse_navigation': False,  # Collapse navigation (False makes it tree-like)
     'style_nav_header_background': "#fcfcfc",
     'display_version': False,
+    'prev_next_buttons_location': ['bottom'],
     # 'display_version': True,  # Display the docs version
     # 'navigation_depth': 4,  # Depth of the headers shown in the navigation bar
 }
