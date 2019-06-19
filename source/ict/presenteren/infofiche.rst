@@ -33,10 +33,10 @@ De inhoud van je dia’s is het belangrijkste maar de vorm heeft een belangrijke
 
 Structuur
 ++++++++++
-- duidelijke vermelding van het onderwerp, je naam (en klas-vak-...) desnoods vergezeld van een goed beeld
+- Duidelijke vermelding van het onderwerp, je naam (en klas-vak-...) desnoods vergezeld van een goed beeld.
 - Indien het een vrijere opdracht is, een inhoudsopgave waar je overloopt waarover je zult spreken. Doe dit niet als je een opgelegde structuur hebt gekregen en iedereen weet waarover je het zult hebben.
-- per afgebakend onderdeel één dia
-- slot
+- Per afgebakend onderdeel maak je één dia.
+- Slot
 
 Vragen
 +++++++
@@ -61,6 +61,7 @@ Hoeveelheid informatie
 
 Plaats niet te veel informatie op je dia's. Gebruik vooral kernwoorden en zeker geen volzinnen.
 Hanteer de 1-6-6 regel:
+
 - 1 dia per onderwerp
 - maximaal 6 regels per dia
 - maximaal 6 woorden per regel
