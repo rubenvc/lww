@@ -16,7 +16,7 @@ Leer- en werkwijzer
 
 .. toctree::
    :maxdepth: 1
-   :caption: ICT
+   :caption: Leer- en werkwijzer
    :name: toc-ict
 
    ict/presenteren/index
