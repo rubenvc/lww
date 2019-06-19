@@ -111,15 +111,3 @@ Kies voor een overduidelijke stijl in je presentatie. Dit betekent:
 - 1 type van diaovergang
 
 Het is niet de bedoeling om aan te tonen dat je weet hoe je dit allemaal kunt veranderen. Kies één iets en pas dit standvastig toe in je presentatie.
-
-Checklist
-**********
-
-Gebruik volgende lijst om na te gaan of je presentatie voldoet aan de minimum eisen.
-- qsdf
-- sdqf
-- sqsqfd
-- sqfdqsdf
-- sqdfqsdf
-- sqdfqsdf
-- qdf
