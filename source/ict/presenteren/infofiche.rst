@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 ============
-Presenteren
+Infofiche
 ============
 
 Doel van een presentatie
