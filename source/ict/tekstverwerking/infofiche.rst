@@ -3,11 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Tekstverwerking
-================
+============
+Infofiche
+============
 
-Doel van tekstverwerking
--------------------------
+Doel van een presentatie
+*************************
 
 1. Je maakt blabla
 2. Put multiple turtles into a list and use a for loop over that list to do the same thing to multiple turtles at once!

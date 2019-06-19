@@ -20,4 +20,4 @@ Leer- en werkwijzer
    :name: sec-ict
 
    ict/presenteren/index
-   tekstverwerking
+   ict/tekstverwerking/index
