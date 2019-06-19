@@ -1,10 +1,10 @@
 ===================
-presenteren
+Presenteren
 ===================
 
 .. toctree::
    :maxdepth: 1
    :name: toc-ict-presenteren
 
-   presenteren
+   infofiche
    checklist
