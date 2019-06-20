@@ -1,6 +1,6 @@
-======================
-Checklist presentatie
-======================
+==========================
+Checklist tekstverwerking
+==========================
 
 Gebruik volgende lijst om na te gaan of je presentatie voldoet aan de minimum eisen.
 

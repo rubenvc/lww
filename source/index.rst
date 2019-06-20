@@ -16,6 +16,14 @@ Leer- en werkwijzer
 
 .. toctree::
    :maxdepth: 1
+   :caption: Taaltips
+   :name: sec-taal
+
+   taaltips/index
+   
+
+.. toctree::
+   :maxdepth: 1
    :caption: ICT
    :name: sec-ict
 
