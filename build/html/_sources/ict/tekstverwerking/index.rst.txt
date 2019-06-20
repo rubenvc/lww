@@ -1,10 +1,10 @@
 ===================
-Presenteren
+Tekstverwerking
 ===================
 
 .. toctree::
    :maxdepth: 1
-   :name: toc-ict-presenteren
+   :name: toc-ict-tekstverwerking
 
    infofiche
    checklist
